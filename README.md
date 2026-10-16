@@ -3,4 +3,4 @@ Supporting data for "Integrated Order Acceptance, Batching, and Scheduling for A
 Authors: [Fatemeh Pourdehghan, Omid Shahvari, Sharan Srinivas]
 This repository contains supporting data for the manuscript.
 ## Citation
-If you use the source code or computational data from this repository in your research, please cite the accompanying manuscript.
+If you use the source code or computational data from this repository in your research, please consider citing the accompanying manuscript.
